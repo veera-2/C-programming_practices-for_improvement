@@ -6,7 +6,7 @@ int main ()
 	printf("i am so excited about it!\n");
 	printf("my name is khadija\n");
 	printf("i love my life\n");
-	printf("or not\n");
+	printf("or not a stupid girl\n");
 
 	return 0;
 }
